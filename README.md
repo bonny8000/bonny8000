@@ -1,6 +1,6 @@
 # Bonny
 
-**Product Designer | UX Research Systems | AI-Enabled Design Workflows**
+**Product Designer | UX Research | AI-Enabled Design Workflows**
 
 I design repeatable systems that help teams move from ambiguous product inputs to clear, evidence-backed decisions and deliverables. My work spans product design, UX research, information architecture, motion, and AI-assisted workflow design.
 
